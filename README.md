@@ -1,5 +1,5 @@
 # Casloc-Meetup-Programmazione-per-il-Web
-Progettazione di una applicazione web che permette di gestire le riunioni di una azienda
+Progettazione di una applicazione web che permette di gestire le riunioni di una azienda.
 
 Schema ER:
 
@@ -13,3 +13,9 @@ Alberatura dell'applicazione web:
 ### Linguaggi Utilizzati
 
 HTML, CSS, JS, PHP
+
+### TEAM:
+
+Stefano Locati
+
+Matteo Castagna
