@@ -12,7 +12,13 @@ Alberatura dell'applicazione web:
 
 ### Linguaggi Utilizzati
 
-HTML, CSS, JS, PHP
+HTML
+
+CSS
+
+JS
+
+PHP
 
 ### TEAM:
 
